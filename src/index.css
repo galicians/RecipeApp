@@ -90,3 +90,15 @@ main {
   content: "+";
   margin-right: 5px;
 }
+.ingredients-list-container {
+  width: 100%; 
+  display: flex;
+  justify-content: flex-start; 
+  margin-top: 2rem; 
+  color: var(--Gray-600, #475467);
+  font-family: Inter;
+  font-size: 1.125rem;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 1.75rem; /* 155.556% */
+}
