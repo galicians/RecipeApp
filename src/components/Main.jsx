@@ -14,8 +14,6 @@ export default function Main() {
         setStateIngredients( prevStateIngredients => [...prevStateIngredients,newIngredient])
     }
 
-
-
     return (
         <>
         <main>
